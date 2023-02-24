@@ -123,7 +123,7 @@ export const tasks = [
 
 ```
 
-- Crear los componentes necesarios para mostrar una lista con cards de productos
+- Crear los componentes necesarios para mostrar una lista con cards de tareas
 - Validar cuando no existe el array.
 - Si el array esta vacio mostrar un mensaje `No hay tareas, vuelva mas tarde.`
 - Si la tarea esta completada `done = true` esta misma tiene que estar tachada.
